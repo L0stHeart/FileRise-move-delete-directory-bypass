@@ -19,5 +19,3 @@ Same CVE arrangement as the rest of this review. The vendor was going to request
 Local Docker only, `error311/filerise-docker` at v3.24.0 (commit 765eccc) and v3.25.0.
 
 Reported privately on 31 July 2026. The vendor published the advisory on 12 August 2026.
-
-L0stHeart
